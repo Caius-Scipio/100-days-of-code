@@ -7,4 +7,4 @@ This is a log of work done when doing the 100 days of code challenge
 
 **Thoughts:** Turning vanilla JS code into React code is not as straight forward as I had thought. Though this is great practice, I don't think I'll do that moving forward.
 
-**Link to work:** [React Sticky Note App]([http://www.example.com](https://github.com/Caius-Scipio/sticky-notes)https://github.com/Caius-Scipio/sticky-notes)
+**Link to work:** [React Sticky Note App](https://github.com/Caius-Scipio/sticky-notes)
