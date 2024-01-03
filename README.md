@@ -9,7 +9,7 @@ This is a log of work done when doing the 100 days of code challenge
 
 **Link to work:** [React Sticky Note App](https://github.com/Caius-Scipio/sticky-notes)
 
-### Day 10: 2024 / 01 / 02
+### Day 1: 2024 / 01 / 02
 
 **Today's Progress**: I updated thes styling of the stickynotes, compiled the build, then pushed it to GitHub. Ran into issues with the gh-pages/branches and took me two hours to rectify that.
 
@@ -17,7 +17,7 @@ This is a log of work done when doing the 100 days of code challenge
 
 **Link to work:** [React Sticky Note App](https://github.com/Caius-Scipio/sticky-notes)
 
-### Day 10: 2024 / 01 / 03
+### Day 2: 2024 / 01 / 03
 
 **Today's Progress**: Started a new project for an E-Commerce site. Created the company name, logo, color palette, Information Architecture, site theme, and site visual metaphor. Was able to add a basic navigation bar with the logo and top level navigation. 
 
