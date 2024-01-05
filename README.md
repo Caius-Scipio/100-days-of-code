@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 4: 2024 / 01 / 05
+
+**Today's Progress**: Started work on placing holder text on a few pages. Creating the information and finding copyright free images took some time. However, the history page, team page, and contact page at least has some information.
+
+**Thoughts:** As I start to put the structure of the site together, I see areas that can be improved and are being put on the to-do list. However, 3 of the 7 pages at least have something to display.
+
+**Link to work:** [Barks & Bubbles](https://github.com/Caius-Scipio/barks-bubbles)
+
 ### Day 3: 2024 / 01 / 04
 
 **Today's Progress**: Continued work on the Navigation bar. I was able to implement dropdown navigation in Bootstrap, installed the React Router DOM, created starter pages for the site, and set up the Router to link to the site pages.
