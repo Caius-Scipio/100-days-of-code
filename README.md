@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 5: 2024 / 01 / 06
+
+**Today's Progress**: Added the footer and the testimonial page today.
+
+**Thoughts:** Wasn't able to get the footer to look quite right nor the background colors for the testimonial cards. Those are now on my to-do list.
+
+**Link to work:** [Barks & Bubbles](https://github.com/Caius-Scipio/barks-bubbles)
+
 ### Day 4: 2024 / 01 / 05
 
 **Today's Progress**: Started work on placing holder text on a few pages. Creating the information and finding copyright free images took some time. However, the history page, team page, and contact page at least has some information.
