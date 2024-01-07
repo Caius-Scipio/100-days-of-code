@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 6: 2024 / 01 / 07
+
+**Today's Progress**: Added the services under grooming and started the dog food page.
+
+**Thoughts:** I've forgotten how to create an populate a template with information from an object. Guess I'll be reading documentation tomorrow.
+
+**Link to work:** [Barks & Bubbles](https://github.com/Caius-Scipio/barks-bubbles)
+
 ### Day 5: 2024 / 01 / 06
 
 **Today's Progress**: Added the footer and the testimonial page today.
