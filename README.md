@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 7: 2024 / 01 / 08
+
+**Today's Progress**: Attempted to create a product card to render multiple products but was unable to get it working. No useful information to push to the project today.
+
+**Thoughts:** I was only able to get halfway through setting up the structure needed to complete this task. I'll need to continue to work on it tomorrow.
+
+**Link to work:** [Barks & Bubbles](https://github.com/Caius-Scipio/barks-bubbles)
+
 ### Day 6: 2024 / 01 / 07
 
 **Today's Progress**: Added the services under grooming and started the dog food page.
