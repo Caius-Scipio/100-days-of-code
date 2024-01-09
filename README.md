@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 8: 2024 / 01 / 09
+
+**Today's Progress**: Created a sample product card, added two example products as an object to populate the cards, and pushed them.
+
+**Thoughts:** This took longer than expected, but I figured out a way to get the task done. Maybe not pretty, but correct. I am not happy with the design of the card, but I'm still in pre-production phase so I'll leave it be for now.
+
+**Link to work:** [Barks & Bubbles](https://github.com/Caius-Scipio/barks-bubbles)
+
 ### Day 7: 2024 / 01 / 08
 
 **Today's Progress**: Attempted to create a product card to render multiple products but was unable to get it working. No useful information to push to the project today.
