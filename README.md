@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 9: 2024 / 01 / 10
+
+**Today's Progress**: Added a products to fillout one of the pages. Generated a few images to rotate between them all.
+
+**Thoughts:** Super don't like the product card being used currently. I will probably fix that tomorrow. Also there is probably a more elegant solution that can be done that I'll try to work on tomorrow as well.
+
+**Link to Work:** [Barks & Bubbles](https://github.com/Caius-Scipio/barks-bubbles)
+
 ### Day 8: 2024 / 01 / 09
 
 **Today's Progress**: Created a sample product card, added two example products as an object to populate the cards, and pushed them.
