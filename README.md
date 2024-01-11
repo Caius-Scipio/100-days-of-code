@@ -1,6 +1,12 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 9: 2024 / 01 / 11
+
+**Today's Progress**: Got super distracted today with a coding website called ConinGame. I spent way too much time coding solutions to prblems they have on their site.
+
+**Thoughts:** I got distracted, but I still spent time coding. I made no progress on my current project, but it felt good to have a break and just code for fun.
+
 ### Day 9: 2024 / 01 / 10
 
 **Today's Progress**: Added a products to fillout one of the pages. Generated a few images to rotate between them all.
