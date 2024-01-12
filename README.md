@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 12: 2024 / 01 / 13
+
+**Today's Progress**: Created data for another product page, added images for display, and populated card of products.
+
+**Thoughts:** Today was slowed down only because I was looking for images. The coding went pretty smoothly, especially since the page yesterday was completed. A few things left to do before a review of the site, a conversation with the "owner," and then on to looking at customizing colors in Bootstrap and adding in some fun theme elements.
+
+**Link to Work:** [Barks & Bubbles](https://github.com/Caius-Scipio/barks-bubbles)
+
 ### Day 11: 2024 / 01 / 12
 
 **Today's Progress**: Fixed the format of the product page made earlier while cleaning up some of the code for better readability and enhancing performance.
