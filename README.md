@@ -1,7 +1,7 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
-### Day 9: 2024 / 01 / 12
+### Day 11: 2024 / 01 / 12
 
 **Today's Progress**: Fixed the format of the product page made earlier while cleaning up some of the code for better readability and enhancing performance.
 
@@ -9,7 +9,7 @@ This is a log of work done when doing the 100 days of code challenge
 
 **Link to Work:** [Barks & Bubbles](https://github.com/Caius-Scipio/barks-bubbles)
 
-### Day 9: 2024 / 01 / 11
+### Day 10: 2024 / 01 / 11
 
 **Today's Progress**: Got super distracted today with a coding website called ConinGame. I spent way too much time coding solutions to prblems they have on their site.
 
