@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 13: 2024 / 01 / 14
+
+**Today's Progress**: Fixed the active class so it properly applies to the active page and started to read documentation to customize Bootstrap colors.
+
+**Thoughts:** I ended up goin with a ternary operator and useState and it works, but it also seems to interfere a bit with how Bootstrap's JS is dealing with dropdown menus. Something I'll have to debug later. Was pretty unsuccessful changing the colors in broad brush strokes. There has to be something I'm missing.
+
+**Link to Work:** [Barks & Bubbles](https://github.com/Caius-Scipio/barks-bubbles)
+
 ### Day 12: 2024 / 01 / 13
 
 **Today's Progress**: Created data for another product page, added images for display, and populated card of products.
