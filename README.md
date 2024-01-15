@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 14: 2024 / 01 / 15
+
+**Today's Progress**: Not much pushed today, just editing the footer to make that functional.
+
+**Thoughts:** Can't seem to find the files in Bootstrap to alter the colors. Finding each element individually to alter the colors seems tedious. I'll keep searching for a solution. Otherwise, I wanted to get something pushed today, and that was the footer. Still have some edits to make on it, though.
+
+**Link to Work:** [Barks & Bubbles](https://github.com/Caius-Scipio/barks-bubbles)
+
 ### Day 13: 2024 / 01 / 14
 
 **Today's Progress**: Fixed the active class so it properly applies to the active page and started to read documentation to customize Bootstrap colors.
