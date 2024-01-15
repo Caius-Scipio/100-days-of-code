@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 14: 2024 / 01 / 16 📜
+
+**Today's Progress**: Today, I spent time on CondinGame battling other programmers to solve problems. Turned out, I was able to receive a certification which was pretty cool.
+
+**Thoughts:** There are many many things to learn and practice. Some of the softer skills are often overlooked. Today I spent time attempting to solve problems against a clock ... and other players. It was a lot of fun and will probably distract me from the Barks and Bubbles web site I'm attempting to make. Feel free to add me, I'll drop the link below.
+
+**Link to Me:** [CodinGame](https://www.codingame.com/profile/d9be76881cc4b055c2eed92fc7b436175587985)
+
 ### Day 14: 2024 / 01 / 15
 
 **Today's Progress**: Not much pushed today, just editing the footer to make that functional.
