@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 14: 2024 / 01 / 17 🎖️
+
+**Today's Progress**: I took an HTML skill test at w3schools and for not really working directly with HTML in a few months scored in the advanced category.
+
+**Thoughts:** I was looking at w3schools JavaScript reference to focus on an issue I was facing, I noticed their educational material had been updated and decidied to take a skill test. They have others and I'll be looking at taking them in the future. The Barks and Bubbles site will be put on the back burner for the time being.
+
+**Link to Me:** [w3schools](https://www.w3schools.com/pathfinder/pathfinder_talent.php)
+
 ### Day 14: 2024 / 01 / 16 📜
 
 **Today's Progress**: Today, I spent time on CondinGame battling other programmers to solve problems. Turned out, I was able to receive a certification which was pretty cool.
