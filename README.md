@@ -1,9 +1,17 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 14: 2024 / 01 / 18
+
+**Today's Progress**: I spent time solving coding problems on CodeWars, CodinGame, and at w3resource.
+
+**Thoughts:** Today was a busy day for me, so the list above was about the only things I could squeeze in. Solving a coding puzzle in CodinGame awarded me with a legendary badge for JavaScript. Not especially impotant, but it did bring a smile to face.
+
+**Link to Me:** [CodinGame](https://www.codingame.com/profile/d9be76881cc4b055c2eed92fc7b436175587985)
+
 ### Day 14: 2024 / 01 / 17 🎖️
 
-**Today's Progress**: I took an HTML skill test at w3schools and for not really working directly with HTML in a few months scored in the advanced category.
+**Today's Progress**: I took an HTML skill test at w3schools and for not really working directly with HTML in a few months scored in the professional category.
 
 **Thoughts:** I was looking at w3schools JavaScript reference to focus on an issue I was facing, I noticed their educational material had been updated and decidied to take a skill test. They have others and I'll be looking at taking them in the future. The Barks and Bubbles site will be put on the back burner for the time being.
 
