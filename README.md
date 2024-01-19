@@ -1,7 +1,15 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
-### Day 14: 2024 / 01 / 18
+### Day 18: 2024 / 01 / 19 🎖️
+
+**Today's Progress**: I took a CSS skill test at w3schools and for not really working directly with CSS in a few months scored in the Professional category.
+
+**Thoughts:** After noticing their educational material had been updated and deciding to take a skill test, I went back for the CSS test. I also noticed that I set the test level to "intermediate" yet scored "professional." I might circle back and and up the test level to see what happens. 
+
+**Link to Me:** [w3schools](https://www.w3schools.com/pathfinder/pathfinder_talent.php)
+
+### Day 17: 2024 / 01 / 18
 
 **Today's Progress**: I spent time solving coding problems on CodeWars, CodinGame, and at w3resource.
 
@@ -9,15 +17,15 @@ This is a log of work done when doing the 100 days of code challenge
 
 **Link to Me:** [CodinGame](https://www.codingame.com/profile/d9be76881cc4b055c2eed92fc7b436175587985)
 
-### Day 14: 2024 / 01 / 17 🎖️
+### Day 16: 2024 / 01 / 17 🎖️
 
-**Today's Progress**: I took an HTML skill test at w3schools and for not really working directly with HTML in a few months scored in the professional category.
+**Today's Progress**: I took an HTML skill test at w3schools and for not really working directly with HTML in a few months scored in the Professional category.
 
 **Thoughts:** I was looking at w3schools JavaScript reference to focus on an issue I was facing, I noticed their educational material had been updated and decidied to take a skill test. They have others and I'll be looking at taking them in the future. The Barks and Bubbles site will be put on the back burner for the time being.
 
 **Link to Me:** [w3schools](https://www.w3schools.com/pathfinder/pathfinder_talent.php)
 
-### Day 14: 2024 / 01 / 16 📜
+### Day 15: 2024 / 01 / 16 📜
 
 **Today's Progress**: Today, I spent time on CondinGame battling other programmers to solve problems. Turned out, I was able to receive a certification which was pretty cool.
 
