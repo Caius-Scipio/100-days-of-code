@@ -1,11 +1,21 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 20: 2024 / 01 / 21
+
+**Today's Progress**: a CodeWars kata about memoizing a fibonocci sequence, a CodinGame puzzle determining Happy Numbers, 4 CondinGame dev battles, and progressed in Bootstrap learning with w3schools.
+
+**Thoughts**: I've learned about memoizing, but haven't implemented it before. Today was the first time. It's a topic I'll like to dive deeper into at some point.  
+
+**Link to Me**: [w3schools](https://www.w3schools.com/pathfinder/pathfinder_talent.php)
+
 ### Day 19: 2024 / 01 / 20
 
-**Today's Progress**: CodeWars Kata, CodinGame puzzle, 4 CodinGame dev battle, Bootsrap learning, and Bootstrap practice activities.
+**Today's Progress**: CodeWars Kata, CodinGame puzzle, 4 CodinGame dev battle, Bootsrap learning, and Bootstrap practice activities with w3schools.
 
 **Thughts**: For not feeling like doing a lot, the dev battles took an hour by itself. The kata and puzzle combined probably took an hour and the Bootstrap activities took an hour or two. The code challelenge is supposed to be code 1 hour per day everyday for 100 day. Should I be slowing down?
+
+**Link to Me**: [CodinGame](https://www.codingame.com/profile/d9be76881cc4b055c2eed92fc7b436175587985)
 
 ### Day 18: 2024 / 01 / 19 🎖️
 
