@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 21: 2024 / 01 / 22
+
+**Today's Progress**: completed a CodeWars kata about curry functions, completed a CodinGame puzzle about greedy algorithms, did 3 CondinGame dev battles, and finished the w3schools Bootstrap learning with an Intermediate level.
+
+**Thoughts**: curry functions were interesting, though this was the first time encountering them, I doubt I can create one without a helping hand. I have yet to complete the w3schools test for Bootstrap, so my level/understanding of it might be a smidge higher. For now, I should focus on Accessibility and JavaScript, then circle back around to the others as I gain more experience with them.
+
+**Link to Me**: [w3schools](https://www.w3schools.com/pathfinder/pathfinder_talent.php)
+
 ### Day 20: 2024 / 01 / 21
 
 **Today's Progress**: a CodeWars kata about memoizing a fibonocci sequence, a CodinGame puzzle determining Happy Numbers, 4 CondinGame dev battles, and progressed in Bootstrap learning with w3schools.
