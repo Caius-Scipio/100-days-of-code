@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 22: 2024 / 01 / 23
+
+**Today's Progress**: completed a CodeWars kata, did 3 CondinGame dev battles, and began a w3schools tutorial on Accessibility.
+
+**Thoughts**: The CodeWars kata was an easy one to solve, despite the claimed level of it. A simple string to insert a space in front of a capital letter. I'm sure some might find it difficult and I'm sure I'd find other tasks at the same level more challenging.
+
+**Link to Me**: [CodeWars](https://www.codewars.com/users/Caius-Scipio)
+
 ### Day 21: 2024 / 01 / 22
 
 **Today's Progress**: completed a CodeWars kata about curry functions, completed a CodinGame puzzle about greedy algorithms, did 3 CondinGame dev battles, and finished the w3schools Bootstrap learning with an Intermediate level.
