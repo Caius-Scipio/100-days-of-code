@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 23: 2024 / 01 / 24
+
+**Today's Progress**: completed a CodeWars kata on explosive sums, did 3 CondinGame dev battles, and continued the w3schools tutorial on Accessibility.
+
+**Thoughts**: Today was a light day due to the unexected heavy workload that came in. Despite that, I was still able to get my hour of programming in. I continue to be amazed at how some complex looking problems are actually quite simple when broken down.
+
+**Link to Me**: [CodeWars](https://www.codewars.com/users/Caius-Scipio)
+
 ### Day 22: 2024 / 01 / 23
 
 **Today's Progress**: completed a CodeWars kata, did 3 CondinGame dev battles, and began a w3schools tutorial on Accessibility.
