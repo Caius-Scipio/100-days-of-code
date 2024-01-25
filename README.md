@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 25: 2024 / 01 / 26
+
+**Today's Progress**: completed a few fundamental CodeWars katas and did 4 CondinGame dev battles.
+
+**Thoughts**: Despite the heavy workload today, I managed to get in an hour's worth of programming time. And geez, do people really enjoy ANSCII art. But I was able to break into the top 100 of the freeCodeCamp group on CodeWars. So that's nice. 
+
+**Link to Me**: [CodeWars](https://www.codewars.com/users/Caius-Scipio)
+
 ### Day 24: 2024 / 01 / 25
 
 **Today's Progress**: completed a CodeWars kata on summing non-overlaping intervals in arrays, did 3 CondinGame dev battles, and continued the w3schools tutorial on Accessibility.
