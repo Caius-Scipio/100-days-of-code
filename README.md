@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 24: 2024 / 01 / 25
+
+**Today's Progress**: completed a CodeWars kata on summing non-overlaping intervals in arrays, did 3 CondinGame dev battles, and continued the w3schools tutorial on Accessibility.
+
+**Thoughts**: Today was another light day due to my schedule but still able to get my hour of programming in. Tomorrow will also be the same. Looks like work is ramping up this year.
+
+**Link to Me**: [CodeWars](https://www.codewars.com/users/Caius-Scipio)
+
 ### Day 23: 2024 / 01 / 24
 
 **Today's Progress**: completed a CodeWars kata on explosive sums, did 3 CondinGame dev battles, and continued the w3schools tutorial on Accessibility.
