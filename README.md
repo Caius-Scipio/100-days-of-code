@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 26: 2024 / 01 / 27
+
+**Today's Progress**: completed a few fundamental CodeWars katas and did 10 CondinGame dev battles.
+
+**Thoughts**: Today was yet another busy day, just like tomorrow will be. But I could squeeze in an hour's worth of prgramming. I think next week, I'll be able to back to completing the website as well as begin making a game. Perhaps a wave defense game. I miss those. I should make one. 
+
+**Link to Me**: [CodeWars](https://www.codewars.com/users/Caius-Scipio)
+
 ### Day 25: 2024 / 01 / 26
 
 **Today's Progress**: completed a few fundamental CodeWars katas and did 4 CondinGame dev battles.
