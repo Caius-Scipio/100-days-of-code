@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 27: 2024 / 01 / 28
+
+**Today's Progress**: completed 4 practice problems from w3resources.
+
+**Thoughts**: I was able to squeeze in some array problems: remove duplicate items, attaching one array to another and returning the concatenated string, and searching a range of years and returning the leap year. 
+
+**Link to Me**: [GitHub Repo](https://github.com/Caius-Scipio/Active-Learning/tree/main/JS)
+
 ### Day 26: 2024 / 01 / 27
 
 **Today's Progress**: completed a few fundamental CodeWars katas and did 10 CondinGame dev battles.
