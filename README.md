@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 29: 2024 / 01 / 30
+
+**Today's Progress**: solved a JS fundamental problem on CodeWars.
+
+**Thoughts**: I spent the better part of the hour I had to program trying to figure out how to construct a regex to determine if the binary code of a number string was divisible by 5 or not. I didn't figure it out, so I did something a bit easier for me to at least put a point on the board.
+
+**Link to Me**: [CodeWars](https://www.codewars.com/users/Caius-Scipio)
+
 ### Day 28: 2024 / 01 / 29
 
 **Today's Progress**: completed 3 practice problems from w3resources.
