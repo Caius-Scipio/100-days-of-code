@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 28: 2024 / 01 / 29
+
+**Today's Progress**: completed 3 practice problems from w3resources.
+
+**Thoughts**: Array problems I worked on: randomly shuffling around items in an array, revisted binary searches, and computed the sum of array indexes such that a new array index 0 was the sum of index 0 of array1 and array2. CodinGame has an event that is starting tonight. Shall I wait to code for that or not? Hmm ...
+
+**Link to Me**: [GitHub Repo](https://github.com/Caius-Scipio/Active-Learning/tree/main/JS)
+
 ### Day 27: 2024 / 01 / 28
 
 **Today's Progress**: completed 4 practice problems from w3resources.
