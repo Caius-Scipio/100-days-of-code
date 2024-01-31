@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 30: 2024 / 01 / 31
+
+**Today's Progress**: look at the CodinGame event and completed a single CodeWars problem
+
+**Thoughts**: I had time and was excited to take part in the event today. I sat down and read through the material and found it would be similar to the PodRacer activity I have been working on. There are some parallels, but it turns out the reference material highly suggested machine learning to solve the problem. The author mentioned he spent 2 weeks coding a testing environment just to solve the event. Using JavaScript for AI work, is a bit out of my skill range. So, I spent time on CodeWars solving a problem to reverse an array in under 30 bytes. This was frustrating beyond belief. I solved it in an unconventional way: no semi-colon, spaces, or variable declaration. I will admit it took me far longer than necessary to figure that out. I spent so much time looking at how many different ways there were to reverse an array just to realize someone coded a challenge like that.
+
+**Link to Me**: [CodeWars](https://www.codewars.com/users/Caius-Scipio)
+
 ### Day 29: 2024 / 01 / 30
 
 **Today's Progress**: solved a JS fundamental problem on CodeWars.
