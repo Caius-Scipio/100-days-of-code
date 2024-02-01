@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 32: 2024 / 02 / 02
+
+**Today's Progress**: completed a CodeWars problem
+
+**Thoughts**: Today's problem started out quite simple again. Create a function to solve an equation. The kicker was to create it with less than 52 characters. The normal equation to calculate the length of a spiral wouldn't work ... and deleting spaces was once again necessary. Do people hate spaces?
+
+**Link to Me**: [CodeWars](https://www.codewars.com/users/Caius-Scipio)
+
 ### Day 31: 2024 / 02 / 01
 
 **Today's Progress**: completed a CodeWars problem
