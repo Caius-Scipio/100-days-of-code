@@ -1,6 +1,14 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 31: 2024 / 02 / 01
+
+**Today's Progress**: completed a CodeWars problem
+
+**Thoughts**: today's problem was to multiply strings of numbers. It started out so simple as I have done that before. But BigInt() wasn't working. I tried using Number() but only had partial success. The problem was in the very large number sets. I spent so much time looking for something I've missed in the JavaScript documentation, but to no avail. I ended up having to rewrite the BigInt function to solve the problem. I wish the author had written some hint that that was the solution, or maybe said they have disabled BigInt. Frustration increasing. I wonder what's in store for tomorrow.
+
+**Link to Me**: [CodeWars](https://www.codewars.com/users/Caius-Scipio)
+
 ### Day 30: 2024 / 01 / 31
 
 **Today's Progress**: look at the CodinGame event and completed a single CodeWars problem
