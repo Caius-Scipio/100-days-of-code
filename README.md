@@ -1,6 +1,22 @@
 # 100-days-of-code
 This is a log of work done when doing the 100 days of code challenge
 
+### Day 34: 2024 / 02 / 04
+
+**Today's Progress**: completed 3 practice problems from w3resources.
+
+**Thoughts**: Array problems I worked on: finding duplicates in an array, combining two arrays removing any duplicates, and flattening arrays. The last one was a struggle. I'm still not sure what is meant by this.
+
+**Link to Me**: [GitHub Repo](https://github.com/Caius-Scipio/Active-Learning/tree/main/JS)
+
+### Day 33: 2024 / 02 / 03
+
+**Today's Progress**: CodeinGame Puzzle
+
+**Thughts**: Sometimes puzzles seem simple but are deceptively hard. I spent my time attempting the Mars Lander 2 puzzle. But to solve all the test cases, I need to come up with a better solution or logic. I wasn't able to complete this one. I will revisit it in the future.
+
+**Link to Me**: [CodinGame](https://www.codingame.com/profile/d9be76881cc4b055c2eed92fc7b436175587985)
+
 ### Day 32: 2024 / 02 / 02
 
 **Today's Progress**: completed a CodeWars problem
